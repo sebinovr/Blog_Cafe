@@ -1,0 +1,18 @@
+TRUCOS PARA MEJORAR CALIDAD DE PAGINAS WEB. 
+--------------------------------------------------------------------
+
+A. Lazy: precarga imagenes acorde vayan saliendo en pantalla.
+ 
+B. preload: precarga paginas necesarias para el funcionamiento de esta. 
+
+C. prefetch: precarga la siguiente pagina la cual el usuario permanence más tiempo. 
+
+D. imagenes webp: formato de imagenes mas ligeros y de buena calidad en paginas web. 
+	codigo <picture> 
+			<source srcset="dirección" type="image/wepb"
+	       </picture> 
+	    
+E.Modernizr: permite mediante la ejecución de elemento de javascrip, la carga de imagenes webp en la hoja CSS. 
+
+	       
+	       
